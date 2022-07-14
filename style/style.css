@@ -1,0 +1,217 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+list-style-type: none;
+}
+header{
+    width: 100%;
+    height: 94px;
+    background-color: black;
+    position: relative;
+}
+h1{
+    width: 70px;
+    height: 70px;
+    background-image: url(../img/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-indent: -999999px;
+    position: absolute;
+    left: 100px;
+    top: 12px;
+}
+h1 a{
+    display: block;
+    width: 70px;
+    height: 70px;
+}
+.lasha1 li{
+    float: left;
+    margin: 10px;
+}
+.lasha1 a{
+    color: white;
+    padding: 5px 10px;
+}
+.lasha1{
+    padding: 30px 338px;
+    position: absolute;
+    top: 0;
+}
+h2{
+    margin: 50px 108px;
+}
+.text1::after{
+    content: "...";
+}
+.text2 a{
+    color: black;
+}
+.surati{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.surati img{
+    width: 100%;
+}
+.lasha2{
+    margin: 50px 100px;
+    float: left;
+    
+}
+.lasha3{
+    width: 300px;
+    height: 244px;
+    border: 1px solid black;
+    position: relative;
+}
+.lasha3 h3{
+    margin-left: 12px;
+    margin-top: 150px;
+}
+.lasha3 .text1{
+    margin-left: 12px;
+    padding-top: 8px;
+}
+.text2{
+    margin-top: 6px;
+}
+.foto{
+    width: 300px;
+    height: 64px;
+    background-image: url(../img/sound.png);
+    background-repeat: repeat-x;
+    background-size: 25%;
+    margin-top: 60px;
+}
+
+.foto2{
+    width: 300px;
+    height: 64px;
+    background-image: url(../img/sound.png);
+    background-repeat: repeat-x;
+    background-size: 25%;
+    clear: both;
+    margin: 50px auto;
+    /* margin: 1000px; */
+}
+.lasha4{
+    position: absolute;
+    top: 10px;
+}
+.social{
+    width: 50px;
+    height: 200px;
+    /* background-color: black; */
+    position: absolute;
+    top: 250px;
+    right: 0px;
+    position: fixed;
+}
+.facebook, .instagram{
+    width: 50px;
+    height: 50px;
+}
+.facebook{
+    background-image: url(../img/fb.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.instagram{
+    background-image: url(../img/instagram.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.facebook a, .instagram a{
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+footer{
+    width: 100%;
+    height: 354px;
+    background-color: black;
+    margin-top: 1582px;
+    position: relative;
+   
+}
+.lasha10{
+    width: 150px;
+    height: 150px;
+    background-image: url(../img/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-indent: -999999px;
+    position: absolute;
+    /* top: 1582px; */
+    left: 645px;
+}
+.lasha11 a{
+    color: white;
+}
+.lasha11{
+    padding-top: 200px;
+    padding-left: 680px;
+}
+.lasha10 a{
+    display: block;
+    width: 150px;
+    height: 150px;
+}
+.lasha15{
+    color: white;
+    padding-left: 660px;
+    padding-top: 50px;
+}
+.lasha20{
+    margin: 50px 80px;
+}
+.lasha20 h2{
+    margin-left: 0;
+}
+.conteiner1{
+    display: flex;
+}
+.lasha21{
+    margin: 50px 80px;
+}
+.lasha21 h2{
+    margin-left: 0;
+}
+.conteiner{
+    display: flex; 
+}
+.lasha45{
+    font-size: 36px;
+    margin-left: 600px;
+    margin-top: 110px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
